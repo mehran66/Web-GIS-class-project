@@ -1,5 +1,9 @@
 # Web-GIS-class-project
-This is a class project for the Web GIS course; implementing WMS, WFS, WPS using GeoServer (http://geoserver.org/).
+This is a class project for the Web GIS course; implementing WMS, WFS, and WPS using GeoServer (http://geoserver.org/). <br/>
+- Install the Geoserver and the Apache HTTP Server on a local computer. <br/>
+- Upload data into the Geoserver. <br/>
+- Change the WMS, WFS, and WPS links in the index.html for the corresponding uploaded data. <br/>
+
  ---Spring 2011---
  
  
